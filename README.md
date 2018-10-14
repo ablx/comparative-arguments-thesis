@@ -7,3 +7,9 @@ This repository contains the result of crowdsourcing annotation campaign to crea
 
 * [LexNet](https://github.com/vered1986/LexNET) [with some modifications](https://github.com/ablx/LexNET)
 * [InferSent](https://github.com/facebookresearch/InferSent)
+
+
+## Paper
+A paper based on the thesis is available at [ArXiv (eprint arXiv:1809.06152)](https://arxiv.org/abs/1809.06152)
+
+[Franzek, Mirco, Alexander Panchenko and Chris Biemann. “Categorization of Comparative Sentences for Argument Mining.” (2018).](https://arxiv.org/pdf/1809.06152.pdf)
